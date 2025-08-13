@@ -29,7 +29,7 @@ The agent follows a seamless, end-to-end call flow:
 
 ## 🛠️ Built With
 
-* **Platform:** [Inya.ai](https://inya.ai) (Link to Inya.ai website)
+* **Platform:** [Inya.ai](https://inya.ai)
 * **Integrations:** Google Calendar, Twilio
 * **Analytics:** Disposition Tracking
 * **Tools:** Markdown for documentation
