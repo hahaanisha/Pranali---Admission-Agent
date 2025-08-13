@@ -38,13 +38,10 @@ The agent follows a seamless, end-to-end call flow:
 
 For a detailed breakdown of the project, including the step-by-step setup, configuration, and a deep dive into the call flow, please visit our GitBook documentation.
 
-[**View Project Documentation**](Link to your GitBook URL)
+[**View Project Documentation**](https://anisha.gitbook.io/hello-class)
 
 ## 🤝 Let's Connect
 
 We're proud of this project and the potential it holds for modernizing admissions processes. We'd love to hear your thoughts!
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Email Address]
-
-Give our project a star ⭐ on this repo and a like on our [LinkedIn post](Link to your LinkedIn Post)!
+Give our project a star ⭐ on this repo and a like on our [LinkedIn post](https://www.linkedin.com/posts/tejas-gadge-8a395b258_ai-educationtechnology-admissions-activity-7360933815126532097-vt8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRRPDoBVYB6_5xhK2CfJyPKygmNG0FEIfc)!
